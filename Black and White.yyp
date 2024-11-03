@@ -43,6 +43,7 @@
     {"id":{"name":"obj_stone","path":"objects/obj_stone/obj_stone.yy",},},
     {"id":{"name":"obj_three","path":"objects/obj_three/obj_three.yy",},},
     {"id":{"name":"Clareira","path":"rooms/Clareira/Clareira.yy",},},
+    {"id":{"name":"Floresta_do_Limiar","path":"rooms/Floresta_do_Limiar/Floresta_do_Limiar.yy",},},
     {"id":{"name":"chest","path":"sprites/chest/chest.yy",},},
     {"id":{"name":"Grass_1","path":"sprites/Grass_1/Grass_1.yy",},},
     {"id":{"name":"Grass_2","path":"sprites/Grass_2/Grass_2.yy",},},
@@ -58,6 +59,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"Clareira","path":"rooms/Clareira/Clareira.yy",},},
+    {"roomId":{"name":"Floresta_do_Limiar","path":"rooms/Floresta_do_Limiar/Floresta_do_Limiar.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[
