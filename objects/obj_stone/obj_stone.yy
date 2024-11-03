@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_three",
+  "%Name":"obj_stone",
   "eventList":[],
   "managed":true,
-  "name":"obj_three",
+  "name":"obj_stone",
   "overriddenProperties":[],
   "parent":{
     "name":"Objetos",
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Three",
-    "path":"sprites/Three/Three.yy",
+    "name":"stone",
+    "path":"sprites/stone/stone.yy",
   },
   "spriteMaskId":null,
   "visible":true,

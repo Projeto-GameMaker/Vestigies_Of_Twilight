@@ -1,11 +1,3 @@
-// Variáveis de flutuação
-var float_amplitude = 1; // Altura máxima da flutuação
-var float_speed = 0.02;  // Velocidade da flutuação
-var center = y;          // Ponto central da flutuação
-
-// Calcular a nova posição Y usando a função seno para uma flutuação suave
-y = center + float_amplitude * sin(current_time * float_speed);
-
 // Variável de movimentação
 var move_speed = 1; // Velocidade de movimentação
 
@@ -49,4 +41,5 @@ if (move_direction_y != 0) {
         y += move_direction_y * move_speed;
     }
 }
+
 
